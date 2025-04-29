@@ -16,7 +16,7 @@ This maze game uses a stack data structure to simulate the movement of a mouse c
 
 <h2> Source Code </h2>
 
-[View Source Code](https://github.com/jogg7/Text-Brush/blob/main/Source.cpp)
+[View Source Code](https://github.com/jogg7/Mouse-in-a-Maze/blob/main/Source.cpp)
 
 
 <h2> Demo Video </h2>
@@ -26,6 +26,6 @@ This maze game uses a stack data structure to simulate the movement of a mouse c
 <h2> Screenshots </h2>
 
 ![Sample Image 1](https://github.com/jogg7/PNGs/blob/main/mouse%20in%20maze%202.png)
-![Sample Image 2](https://github.com/jogg7/PNGs/blob/main/mouse%20in%20maze%203.png)
+![Sample Image 2](https://github.com/jogg7/PNGs/blob/main/mouse%20in%20maze%201.png)
 ![Sample Image 3](https://github.com/jogg7/PNGs/blob/main/mouse%20in%20maze%203.png)
 
