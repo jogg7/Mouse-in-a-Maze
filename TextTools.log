@@ -1,0 +1,39 @@
+﻿  BinaryTree.cpp
+  Connect.cpp
+  Coordinates.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(19,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(19,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(19,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(19,35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(20,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(20,36): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(21,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\Coordinates.cpp(21,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  EasyBMP.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\EasyBMP.cpp(994,13): warning C4101: 'ZeroWORD': unreferenced local variable
+  Image.cpp
+  MyCircle.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyCircle.cpp(10,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyCircle.cpp(10,22): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  MyGraph.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyGraph.cpp(198,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyGraph.cpp(236,27): warning C4018: '<': signed/unsigned mismatch
+  MyGraphics.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyGraphics.cpp(32,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyGraphics.cpp(32,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyMouse.cpp
+  MyRectangle.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\MyRectangle.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+  MySound.cpp
+  Node.cpp
+  shapes.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\shapes.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Colors.cpp
+  TextArt.cpp
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\TextArt.cpp(19,18): warning C4018: '>': signed/unsigned mismatch
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\TextArt.cpp(61,77): warning C4309: 'argument': truncation of constant value
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\TextArt.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\TextTools\BinaryTree.cpp(156): warning C4715: 'BinaryTree::IsComplete': not all control paths return a value
+  TextTools.vcxproj -> C:\Users\justi\Desktop\Coding fall2022\mouseinmaze\TextTools\Debug\TextTools.exe
