@@ -1,4 +1,4 @@
-# Mouse-in-aa-Maze
+# Mouse-in-a-Maze
 A Pac Man like game using Recursion, Backtracking and Stack Data Structure.
 Designed a game that works very similar to pac man but with additional features.
 Made in C++.
